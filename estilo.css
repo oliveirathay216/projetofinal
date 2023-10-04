@@ -1,0 +1,97 @@
+/* Header */
+.topo{
+	padding: 1em 0;
+	position: relative;
+	background: #AC99F2;
+	color: #fff;
+	margin-bottom: .8em;
+}
+.logo-img{
+	width: 25%;
+}
+ .cor-header{
+	color: #fff;
+ }
+ .nav-link{
+	color: #fff;
+ }
+ /* Banner início */
+.banner-topo .img-destaque{
+	max-width: 19em;
+}
+
+
+/* Foto seção quem sou eu */
+
+/* cor h1 quem sou eu */
+.cor-tema{
+	color:#202a65;
+	/* margin-top: 1em; */
+}
+.img-destaque{
+    width: 43vh;
+    padding: 1rem;
+	border-radius: 10%;
+	box-shadow: 0px 0px 10px #AC99F2;
+}
+.cor-fundo{
+	background-color: #D8D0F2;
+	margin-top: .8em;
+	margin-bottom: .5em;
+}
+
+/* Foto seção Jornada */
+.img-destaque2{
+	width: 60vh;
+	border-radius: 10px;
+}
+.jornada_row{
+	align-items: center;
+	margin-top: 0;
+}
+
+/* seção desafios */
+.desafios{
+	background: #D8D0F2;
+	color: black;
+}
+
+/* seção carrosel */
+.carousel-inner img{
+	width: 30em;
+	justify-content: center;
+	margin: auto;
+}
+
+.carousel_flex{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+/* Imagens seção conquistas */
+.conquistas{
+	
+    height: 31em;
+	object-fit: contain;
+}
+/* Imagem seção aprendizados */
+.card-img-top2{
+	width: 67%;
+	margin: auto;
+}
+/* Altura cards seção projetos */
+.heigt-card{
+	height: 214px;
+}
+
+/* seção footer */
+.rodape{
+	color: #AC99F2;
+	background-color: #fff;
+}
+
+.imgfooter{
+	width: 20%;
+}
